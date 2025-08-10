@@ -1,4 +1,3 @@
-Descrição inserida depois do clone
 #nicoladeveloper
 <h2>Como criar texto animado no seu readme dessa forma:</h2>
 <div align = "left">
